@@ -79,6 +79,12 @@ An app that allows the reading community to tag a book's content, scan their col
 ![IMG_B0DD5672CF4A-1](https://github.com/user-attachments/assets/098649c0-9da3-4dff-a981-003f74a6981a)
 
 
+## Current Progress
+
+
+https://github.com/user-attachments/assets/c3c85f6e-dd19-4ec4-8362-2317a7948ed3
+
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
